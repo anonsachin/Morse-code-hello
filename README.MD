@@ -19,3 +19,20 @@ Requirements
 - make
 
 `Note - Also set the environment variables for system and your user for the tinygo and avrdude bins`
+
+Versions
+--------
+**Tinygo**
+```
+    tinygo version 0.21.0 windows/amd64 (using go version go1.17.6 and LLVM version 11.0.0)
+```
+
+**AVRDUDE**
+```
+    avrdude version 6.3
+```
+
+**GIT**
+```
+    GNU Make 4.2.1
+```
