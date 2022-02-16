@@ -5,6 +5,7 @@ import (
     "time"
 )
 
+// Basic main setup for arduino
 func main() {
     led := machine.LED
     led.Configure(machine.PinConfig{Mode: machine.PinOutput})

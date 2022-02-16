@@ -12,7 +12,7 @@ Set the `PORT` env variable to the one where your device is connected and then r
 Requirements
 ------------
 
-[Blog to learn to setup tinygo for arduino uno on windows](https://create.arduino.cc/projecthub/alankrantas/tinygo-on-arduino-uno-an-introduction-6130f6)
+[Blog to learn to setup tinygo for arduino uno](https://create.arduino.cc/projecthub/alankrantas/tinygo-on-arduino-uno-an-introduction-6130f6)
 
 - tinygo
 - avrdude
