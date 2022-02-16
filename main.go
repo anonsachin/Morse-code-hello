@@ -18,6 +18,10 @@ func main() {
     }
 }
 
+/*
+    Below this is all the code for setting up and Blinking out HELLO
+*/
+
 // HelloInMorseCode is to create a hello morsecode message
 func HelloInMorseCode(m *MorseCode){
     // lets start of
@@ -128,4 +132,3 @@ func (m *MorseCode) WordWait() {
     m.LetterWait()
     m.Wait()
 }
-
